@@ -1,0 +1,16 @@
+.no-active {
+  color: #6c757d !important;
+  font-weight: normal;
+  &:hover {
+    text-decoration: none;
+    color: #343a40 !important;
+  }
+}
+
+.active {
+  color: #343a40 !important;
+  font-weight: bold;
+  &:hover {
+    text-decoration: none;
+  }
+}
